@@ -1,5 +1,6 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/CatPerez402/Gardening-Basics/badge)](https://securityscorecards.dev/viewer/?uri=github.com/CatPerez402/Gardening-Basics)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/5621/badge)](https://www.bestpractices.dev/projects/5621)
+
 # Gardening Basics
 Gardening Basics is a user-friendly tool designed to assist gardening enthusiasts in selecting the ideal plants for each month, providing detailed information about those plants, and promoting sustainable gardening practices.
 
