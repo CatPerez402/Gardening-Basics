@@ -1,5 +1,5 @@
-[![OpenSSF Scorecard]]
-htt‌ps://api.securityscorecards.dev/projects/github.com/CatPerez402/Gardening-Basics/badge
+[![OpenSSF Scorecard]
+htt‌ps://api.securityscorecards.dev/projects/github.com/CatPerez402/Gardening-Basics/badge]
 htt‌ps://securityscorecards.dev/viewer/?uri=github.com/CatPerez402/Gardening-Basics
 
 # Gardening Basics
